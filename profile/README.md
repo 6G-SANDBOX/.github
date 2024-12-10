@@ -10,10 +10,10 @@
 
 ## Wiki Documentation
 
-For detailed documentation on the TNLCM and 6G-Library repositories, please refer to the following links:
+- [TNLCM Wiki](https://github.com/6G-SANDBOX/TNLCM/wiki)
 
-- [TNLCM Wiki](https://github.com/yourusername/TNLCM/wiki)
+- [6G-Library Wiki](https://github.com/6G-SANDBOX/6G-Library/wiki)
 
-- [6G-Library Wiki](https://github.com/yourusername/6G-Library/wiki)
+- [Toolkit installer Wiki](https://github.com/6G-SANDBOX/toolkit-installer/wiki)
 
 These links will guide you through the functionality and integration of both projects, providing a comprehensive overview of how to leverage them for your research or development work.
